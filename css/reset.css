@@ -18,20 +18,24 @@ body{background:#fff;margin:0;padding:0;line-height:1;font-size:14px;font-family
 .w220  {width:220px}
 .layout{width:100%}
 /*背景样式*/
-.bgcolor{background-color:#f5f5f5}
+.bgcolor{background-color:#e9f0f8}
+.bgwhite{background-color:#fff}
 .bgred  {background-color: red}
 .bggray {background-color: #f2f2f2}
 /*颜色*/
 .red   ,a.red   {color:#f00}
 .orange,a.orange{color:#ff6400}
-.green ,a.green {color:#2d9b01}
+.green ,a.green {color:#01b523}
 .blue  ,a.blue  {color:#157ff6}
-.brown ,a.brown {color:#666}
-.gray  ,a.gray  {color:#999}
+.brown ,a.brown {color:#999}
+.brown2 ,a.brown2 {color:#a25100}
+.gray  ,a.gray  {color:#ccc}
+.gray2  ,a.gray2  {color:#666}
+.gray3  ,a.gray3  {color:#999}
 .white ,a.white {color:#fff}
 /* 设置超链接的样式 */
 a      {color:#5893ce;text-decoration:none;}
-a:hover{color:blue;text-decoration:none;}
+a:hover{color:#ff6400;text-decoration:none;}
 /*字体大小*/
 .font12{font-size:12px}
 .font14{font-size:14px}
